@@ -11,7 +11,7 @@ import Scores from './pages/Scores'
 import ResumeUpload from './pages/ResumeUpload'
 import LiveInterview from './pages/LiveInterview'
 import InterviewReport from './pages/InterviewReport'
-import ATSScore from './pages/ATSScore'
+import ATSScore from './pages/AtsScore'
 import ResumeGenerator from './pages/ResumeGenerator'
 
 function ProtectedRoute({ children }) {
